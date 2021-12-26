@@ -1,2 +1,2 @@
 # ReactionTimeBot
-Faster than a human reaction time.
+Faster than a human's reaction time.
